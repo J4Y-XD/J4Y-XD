@@ -1,6 +1,6 @@
 ## Hello World !
-![J4Y-XD](https://user-images.githubusercontent.com/88928169/129441959-1ef76514-6427-4902-82e1-e430238c057f.jpg)
-## GitHub Stats  
+![FB_IMG_16291888220016231](https://user-images.githubusercontent.com/88732843/130036530-e612fe46-94d7-47a2-96e4-6142c3b46d27.jpg)
+## Github Stats
 ![J4Y-XDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4Y-XD&show_icons=true&theme=chartreuse-dark)  
 ## Social Media  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/J4Y-XD) <a href="https://github.com/J4Y-XD">My Github</a>  
